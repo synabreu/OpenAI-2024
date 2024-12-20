@@ -42,6 +42,13 @@ OpenAI 2024 Developers Contents
 
      
 ##### [Search—12 Days of OpenAI: Day 8](https://www.youtube.com/watch?v=OzgNJJ2ErEE) #####
+
+     * OpenAI의 ChatGPT 검색 기능 업데이트 
+     * 기존 유료 사용자들에게 제공되던 검색 기능의 속도 및 모바일 사용성 개선과 새로운 지도 경험 추가
+     * 음성 모드와 연동하여 음성으로 검색이 가능하게 업데이트
+     * 모든 로그인한 무료 사용자들에게 전 세계적으로 ChatGPT 검색 기능을 제공한다
+
+
 ##### [Projects—12 Days of OpenAI: Day 7](https://www.youtube.com/watch?v=OzgNJJ2ErEE) #####
 ##### [Santa Mode & Video in Advanced Voice—12 Days of OpenAI: Day 6](https://www.youtube.com/watch?v=NIQDnWlwYyQ) #####
 ##### [ChatGPT x Apple Intelligence—12 Days of OpenAI: Day 5](https://www.youtube.com/watch?v=mBhkD0iFf4w) #####
