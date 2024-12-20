@@ -5,6 +5,10 @@
 
 ### Youtube : 12 Days of OpenAI ####
 
+##### []() #####
+
+
+
 ##### [1-800-CHAT-GPT—12 Days of OpenAI: Day 10](https://www.youtube.com/watch?v=LWa6OHeNK3s) #####
 
     * OpenAI의 ChatGPT를 미국에서는 1-800-242-8478 전화 번호로, 전 세계적으로는 WhatsApp을 통해 더욱 접근 가능하도록 함.
@@ -63,19 +67,28 @@
      * 크리스마스를 맞이하여 ChatGPT에서 산타와 대화할 수 있는 기능 추가 
      
 ##### [ChatGPT x Apple Intelligence—12 Days of OpenAI: Day 5](https://www.youtube.com/watch?v=mBhkD0iFf4w) #####
+
+     * iPhone, iPad, Mac고 같은 애플 기기와 ChatGPT의 통합 발표 : 전반적으로 ChatGPT의 접근성을 높이고, 사용 편의성을 개선하는 데 초점
+     * Siri, Apple의 작성 도구, 그리고 iPhone 16의 카메라 기능과의 연동을 통해 ChatGPT를 손쉽게 사용할 수 있도록 했음
+     * 사용자는 계정 없이도 사용 가능하며, Siri를 통해 음성 명령으로 ChatGPT를 호출
+     * Siri를 통해 음성 명령으로 ChatGPT를 호출하거나, 문서 작성 및 편집 과정에 ChatGPT를 활용하거나, 사진을 분석하여 ChatGPT로 정보를 얻을 수 있음
+
+##### [Canvas—12 Days of OpenAI: Day 4](https://www.youtube.com/watch?v=qZ0ImE41pVs) #####
+
+     * 새로운 캔버스 기능 업데이트: 캔버스를 통해 ChatGPT와의 대화를 단순한 채팅을 넘어, 글쓰기나 코딩 작업을 위한 협업 도구로 확장시킴.
+     * 모든 사용자에게 Canvas를 제공하고 기본 모델에 통합
+     * Canvas 내에서 Python 코드 실행 및 결과 확인
+     * 개인 맞춤형 GPT(Custom GPT)에도 Canvas 기능을 적용하여 사용자 지정 모델의 기능 향상
+     * 보다 효율적이고 직관적인 방식으로 ChatGPT를 활용하여 창작 및 프로그래밍 작업을 수행할 수 있도록 하는 업데이트
+
+##### [Sora–12 Days of OpenAI: Day 3](https://www.youtube.com/watch?v=2jKVx2vyZOY) #####
 ##### []() #####
 ##### []() #####
 ##### []() #####
 ##### []() #####
 ##### []() #####
 ##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
+
 
 
 ### OpenAI Developer Conference 2024 ####
