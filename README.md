@@ -5,9 +5,13 @@
 
 ### Youtube : 12 Days of OpenAI ####
 
-##### []() #####
+##### [Work with Apps—12 Days of OpenAI: Day 11](https://www.youtube.com/watch?v=g_qxoznfa7E) #####
 
-
+    * OpenAI의 ChatGPT 데스크톱 앱 업데이트 : ChatGPT 데스크톱 앱의 강력해진 기능과 사용 편의성을 강조하고, 향후 2025년까지 더욱 발전된 'agentic'한 ChatGPT 예고
+    * Mac과 Windows용 ChatGPT 데스크톱 앱의 기능 향상
+    * 앱과의 직접적인 연동을 통해 사용자의 컴퓨터 화면 정보를 활용하여 코드 작성, 문서 작성 보조, 자동화 작업 등을 지원하는 기능이 추가
+    * 실제 데스크톱 앱을 사용하여 Xcode, Warp 터미널, Notion 등의 앱과 ChatGPT를 연동하는 데모를 보여줌
+    * 새로운 모델(01, 01 Pro)을 통한 향상된 코드 생성 및 데이터 분석 기능, 음성 입력을 지원하는 'Advanced Voice Mode'의 활용 예시 제시
 
 ##### [1-800-CHAT-GPT—12 Days of OpenAI: Day 10](https://www.youtube.com/watch?v=LWa6OHeNK3s) #####
 
@@ -82,14 +86,26 @@
      * 보다 효율적이고 직관적인 방식으로 ChatGPT를 활용하여 창작 및 프로그래밍 작업을 수행할 수 있도록 하는 업데이트
 
 ##### [Sora–12 Days of OpenAI: Day 3](https://www.youtube.com/watch?v=2jKVx2vyZOY) #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
-##### []() #####
 
+     * OpenAI가 새롭게 출시한 비디오 생성 AI 모델인 Sora 출시 : Sora가 창의적인 비디오 제작을 위한 강력하고 직관적인 도구로 강조함
+     * Sora의 핵심 기능으로는 텍스트나 이미지를 기반으로 비디오를 생성하고, 기존 비디오를 편집/변형하는 기능(Remix, Recut, Blend, Loop) 소개
+     * 개발 배경으로는 크리에이터를 위한 도구 제공, 텍스트 중심의 AI 한계 극복, 그리고 AGI 로드맵 달성을 위한 중요한 단계라는 점이 강조함
+     * 사용 편의성과 사용 가능 국가 및 요금제에 대한 정보와 함께, 향후 개선 및 안전성에 대한 언급함
 
+##### [Reinforcement Fine-Tuning—12 Days of OpenAI: Day 2](https://www.youtube.com/watch?v=yCIYS9fx56U) #####
+
+     * OpenAI가 개발한 새로운 모델 개선 프로그램인 강화 학습 미세 조정(Reinforcement Fine-Tuning, RFT) 소개
+     * 기존의 지도 학습 미세 조정과 달리, RFT는 모델이 문제에 대해 스스로 생각하고 답변을 평가받은 후, 올바른 추론 과정을 강화하는 방식으로 학습함
+     * 소량의 데이터만으로도 특정 분야에서 전문가 수준의 성능을 달성할 수 있다고 희귀 유전 질환 진단을 예시로 설명함
+     * 발표의 목적은 RFT의 잠재력을 보여주고, 연구자 및 기업들을 대상으로 한 알파 프로그램 참여를 유도
+     * [OpenAI's Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
+
+##### [OpenAI o1 and o1 pro mode in ChatGPT — 12 Days of OpenAI: Day 1](https://www.youtube.com/watch?v=iBfQTnA2n2s) #####
+
+     * OpenAI가 12일 동안 매주 새로운 기능을 공개하는 이벤트의 첫날 발표 내용
+     * GPT-4보다 훨씬 향상된 성능을 가진 새로운 언어 모델 "o1"의 정식 출시 : 속도와 지능, 다중 모드 입력 기능 개선
+     * 챗GPT Pro의 출시(월 200달러)를 발표하며, 무제한 모델 접근 및 고급 기능(o1 Pro 모드 포함)을 제공하여 고급 사용자의 요구 충족
+     * OpenAI의 기술적 발전과 사용자 경험 개선에 대한 노력을 보여주는 동시에, 향후 11일간의 추가 발표에 대한 기대감을 높이는 것
 
 ### OpenAI Developer Conference 2024 ####
 
